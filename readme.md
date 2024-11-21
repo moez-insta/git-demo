@@ -1,1 +1,1 @@
-this will serve as a repo for the git training 
+this will serve as a repo for the git training
